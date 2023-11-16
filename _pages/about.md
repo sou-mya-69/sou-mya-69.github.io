@@ -20,10 +20,10 @@ My academic journey has been a thrilling exploration, weaving together the realm
 
 In the vast landscape of Computational Biophysics, my research interests are diverse and dynamic. 🧬 From molecular dynamics simulations to protein folding, I am fascinated by the dynamic dance of atoms and molecules that underlies the machinery of life.
 
-# Computational Drug Discovery 💉💊🩺🖥️
+### Computational Drug Discovery 💉💊🩺🖥️
 My passion for computational drug discovery stems from a profound fascination with the intersection of technology and life sciences. The ability to harness computational tools to decipher complex biological processes and predict potential drug candidates presents an unparalleled opportunity to revolutionize medicine. The prospect of accelerating drug development, optimizing therapeutic interventions, and unveiling novel solutions to intricate health challenges propels my enthusiasm. In a world where precision and efficiency are paramount, computational drug discovery stands as a beacon, offering the means to decode the language of molecules and pave the way for transformative advancements in pharmaceutical research. It's the synergy of innovation, scientific inquiry, and the potential to make a tangible impact on healthcare that fuels my unwavering dedication to this dynamic field.
 
-# Machine Learning and Biophysics 🤖🧬
+### Machine Learning and Biophysics 🤖🧬
 Machine learning algorithms provide a unique lens through which we can analyze vast datasets, extract patterns, and gain nuanced insights into the complexities of biological systems. This intersection of computational intelligence and biophysics not only enhances our understanding of fundamental biological principles but also opens doors to innovative solutions and predictions. The prospect of leveraging machine learning to decipher the dynamic behavior of biomolecules, predict protein interactions, and optimize simulations is both intellectually stimulating and holds immense potential for transformative discoveries in the field of biophysics. It is this fusion of advanced technology with the mysteries of life that propels my enthusiasm for exploring the limitless possibilities that machine learning brings to the forefront of biophysical research.
 
 ## What Drives Me
@@ -40,5 +40,5 @@ I'm always open to collaboration, discussions, and sharing insights with fellow 
 
 Let's embark on this scientific journey together, unraveling the mysteries of life one simulation at a time!
 
-Let's simulate the world! 🚀🔬
+##Let's simulate the world! 🚀🔬
 

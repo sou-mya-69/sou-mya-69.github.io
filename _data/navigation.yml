@@ -6,9 +6,8 @@ main:
   # - title: "Talks"
   #   url: /talks/   
     
- - title: "CV"
+  - title: "CV"
     url: /files/Soumya Dutta CV.pdf
-    
   - title: "Teaching"
     url: https://research.asu.edu/bringing-todays-science-tomorrows-scientists    
     

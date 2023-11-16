@@ -31,7 +31,7 @@ Beyond the lines of code and simulations, my work is fueled by a deep-seated cur
 
 ## Current Projects
 
-I'm currently immersed in [Brief Description of Current Project], where I aim to [Project Objective]. This project not only pushes the boundaries of my knowledge but also contributes to the broader scientific community.
+Will be updated soon.
 
 ## Let's Connect
 

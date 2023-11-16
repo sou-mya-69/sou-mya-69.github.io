@@ -18,8 +18,8 @@ body {
   max-width: 1200px; /* Example value, adjust as needed */
 
   /* Center the text container on the page */
-  margin-left: auto;
-  margin-right: auto;
+  // margin-left: auto;
+  // margin-right: auto;
   
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

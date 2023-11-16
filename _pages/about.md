@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 
 Hello there! 👋 I'm a passionate Computational Biophysicist on a journey to unravel the secrets of life through the power of computational microscopes 🔬. With a curious mind and a knack for problem-solving, I delve into the intricacies of biomolecules to uncover the hidden patterns that govern their behavior.
 
@@ -40,5 +39,5 @@ I'm always open to collaboration, discussions, and sharing insights with fellow 
 
 Let's embark on this scientific journey together, unraveling the mysteries of life one simulation at a time!
 
-##Let's simulate the world! 🚀🔬
+## Let's simulate the world! 🚀🔬
 

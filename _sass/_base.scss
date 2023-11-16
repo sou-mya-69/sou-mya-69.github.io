@@ -14,7 +14,13 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  /* Adjust the max-width property to increase or decrease the width of the text container */
+  max-width: 800px; /* Example value, adjust as needed */
 
+  /* Center the text container on the page */
+  margin-left: auto;
+  margin-right: auto;
+  
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;

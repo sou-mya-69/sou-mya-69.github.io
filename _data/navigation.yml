@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=wBtBD1MAAAAJ
 
-  # - title: "Talks"
-  #   url: /talks/   
+  - title: "Talks"
+    url: /talks/   
     
   - title: "CV"
     url: /files/Soumya Dutta CV.pdf

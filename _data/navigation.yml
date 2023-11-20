@@ -9,8 +9,8 @@ main:
   - title: "CV"
     url: /files/Soumya Dutta CV.pdf
     
-  # - title: "Current Projects"
-  #   url: /current_projects/  
+  - title: "Current Projects"
+    url: /current_projects/  
     
   - title: "Teaching"
     url: https://research.asu.edu/bringing-todays-science-tomorrows-scientists    

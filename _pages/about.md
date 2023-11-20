@@ -29,9 +29,6 @@ Machine learning algorithms provide a unique lens through which we can analyze v
 
 Beyond the lines of code and simulations, my work is fueled by a deep-seated curiosity about the fundamental principles governing biological systems. I believe that by understanding the intricacies of life at a computational level, we can unlock solutions to some of the most pressing challenges in medicine, biotechnology, and beyond.
 
-## Current Projects
-
-Will be updated soon.
 
 ## Let's Connect
 

@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=wBtBD1MAAAAJ
 
-  - title: "Talks"
-    url: /talks/   
+  # - title: "Talks"
+  #   url: /talks/   
     
   - title: "CV"
     url: /files/Soumya Dutta CV.pdf
     
-  - title: "Current Projects"
-    url: /current_projects/  
+  # - title: "Current Projects"
+  #   url: /current_projects/  
     
   - title: "Teaching"
-    url: https://research.asu.edu/bringing-todays-science-tomorrows-scientists    
+    url: https://www.biosense.network/landing?from=https%3A%2F%2Fwww.biosense.network%2F%25C2%25A0   
     
   # - title: "Portfolio"
   #   url: /portfolio/
